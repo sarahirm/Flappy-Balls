@@ -1,12 +1,6 @@
-Título
+FlappyBalls
 ==============
 
-Subtítulo
+Juego estilo Flappy Bird, con función de multijugador en un sólo dispositivo.
 --------------
 
-*Cursiva*
-
-**Negrita**
-
-- Objeto de lista
-- Objeto de lista 2
